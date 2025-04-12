@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://blog.gitguardian.com/content/images/size/w2000/2022/10/illustration.png" height="200"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Induwara Prawala</h1>
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -6,9 +10,7 @@
 </p>
 <h3 align="center">IT Explorer | Game Dev Enthusiast | Leveling Up in Code & Creativity</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sl-oomiboy&label=Profile%20views&color=0e75b6&style=flat" alt="sl-oomiboy" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sl-oomiboy" alt="sl-oomiboy" /></a> </p>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
